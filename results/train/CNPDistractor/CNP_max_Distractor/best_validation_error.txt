@@ -1,0 +1,450 @@
+Best Step: 1000 
+Best validation Loss: 
+tensor(31.5649, device='cuda:0')
+Best validation Loss std: 
+tensor(1.4062, device='cuda:0')
+Best Step: 2000 
+Best validation Loss: 
+tensor(29.2157, device='cuda:0')
+Best validation Loss std: 
+tensor(1.7116, device='cuda:0')
+Best Step: 3000 
+Best validation Loss: 
+tensor(28.8640, device='cuda:0')
+Best validation Loss std: 
+tensor(1.7919, device='cuda:0')
+Best Step: 4000 
+Best validation Loss: 
+tensor(28.2104, device='cuda:0')
+Best validation Loss std: 
+tensor(1.7410, device='cuda:0')
+Best Step: 5000 
+Best validation Loss: 
+tensor(28.0423, device='cuda:0')
+Best validation Loss std: 
+tensor(1.8258, device='cuda:0')
+Best Step: 6000 
+Best validation Loss: 
+tensor(27.8605, device='cuda:0')
+Best validation Loss std: 
+tensor(1.7233, device='cuda:0')
+Best Step: 7000 
+Best validation Loss: 
+tensor(17.5164, device='cuda:0')
+Best validation Loss std: 
+tensor(1.5474, device='cuda:0')
+Best Step: 8000 
+Best validation Loss: 
+tensor(14.6767, device='cuda:0')
+Best validation Loss std: 
+tensor(1.1837, device='cuda:0')
+Best Step: 9000 
+Best validation Loss: 
+tensor(13.9933, device='cuda:0')
+Best validation Loss std: 
+tensor(1.0375, device='cuda:0')
+Best Step: 10000 
+Best validation Loss: 
+tensor(12.8177, device='cuda:0')
+Best validation Loss std: 
+tensor(1.1627, device='cuda:0')
+Best Step: 11000 
+Best validation Loss: 
+tensor(12.2884, device='cuda:0')
+Best validation Loss std: 
+tensor(1.3185, device='cuda:0')
+Best Step: 12000 
+Best validation Loss: 
+tensor(11.6931, device='cuda:0')
+Best validation Loss std: 
+tensor(1.2086, device='cuda:0')
+Best Step: 14000 
+Best validation Loss: 
+tensor(11.4070, device='cuda:0')
+Best validation Loss std: 
+tensor(1.0645, device='cuda:0')
+Best Step: 17000 
+Best validation Loss: 
+tensor(11.0253, device='cuda:0')
+Best validation Loss std: 
+tensor(1.2349, device='cuda:0')
+Best Step: 19000 
+Best validation Loss: 
+tensor(10.5875, device='cuda:0')
+Best validation Loss std: 
+tensor(1.1966, device='cuda:0')
+Best Step: 20000 
+Best validation Loss: 
+tensor(10.5184, device='cuda:0')
+Best validation Loss std: 
+tensor(1.3001, device='cuda:0')
+Best Step: 23000 
+Best validation Loss: 
+tensor(10.4474, device='cuda:0')
+Best validation Loss std: 
+tensor(1.1994, device='cuda:0')
+Best Step: 24000 
+Best validation Loss: 
+tensor(9.7079, device='cuda:0')
+Best validation Loss std: 
+tensor(1.2534, device='cuda:0')
+Best Step: 25000 
+Best validation Loss: 
+tensor(9.4955, device='cuda:0')
+Best validation Loss std: 
+tensor(1.0925, device='cuda:0')
+Best Step: 29000 
+Best validation Loss: 
+tensor(9.3710, device='cuda:0')
+Best validation Loss std: 
+tensor(1.1720, device='cuda:0')
+Best Step: 31000 
+Best validation Loss: 
+tensor(9.2432, device='cuda:0')
+Best validation Loss std: 
+tensor(1.2422, device='cuda:0')
+Best Step: 33000 
+Best validation Loss: 
+tensor(9.0391, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8881, device='cuda:0')
+Best Step: 38000 
+Best validation Loss: 
+tensor(8.7032, device='cuda:0')
+Best validation Loss std: 
+tensor(1.0588, device='cuda:0')
+Best Step: 39000 
+Best validation Loss: 
+tensor(8.6942, device='cuda:0')
+Best validation Loss std: 
+tensor(0.9892, device='cuda:0')
+Best Step: 42000 
+Best validation Loss: 
+tensor(8.5594, device='cuda:0')
+Best validation Loss std: 
+tensor(0.9466, device='cuda:0')
+Best Step: 48000 
+Best validation Loss: 
+tensor(8.2172, device='cuda:0')
+Best validation Loss std: 
+tensor(1.1182, device='cuda:0')
+Best Step: 50000 
+Best validation Loss: 
+tensor(8.2013, device='cuda:0')
+Best validation Loss std: 
+tensor(1.0792, device='cuda:0')
+Best Step: 53000 
+Best validation Loss: 
+tensor(8.1818, device='cuda:0')
+Best validation Loss std: 
+tensor(1.0851, device='cuda:0')
+Best Step: 59000 
+Best validation Loss: 
+tensor(8.1242, device='cuda:0')
+Best validation Loss std: 
+tensor(1.2075, device='cuda:0')
+Best Step: 60000 
+Best validation Loss: 
+tensor(7.8351, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8722, device='cuda:0')
+Best Step: 63000 
+Best validation Loss: 
+tensor(7.6790, device='cuda:0')
+Best validation Loss std: 
+tensor(0.9258, device='cuda:0')
+Best Step: 74000 
+Best validation Loss: 
+tensor(7.5965, device='cuda:0')
+Best validation Loss std: 
+tensor(0.9141, device='cuda:0')
+Best Step: 79000 
+Best validation Loss: 
+tensor(7.2592, device='cuda:0')
+Best validation Loss std: 
+tensor(0.9460, device='cuda:0')
+Best Step: 93000 
+Best validation Loss: 
+tensor(7.2514, device='cuda:0')
+Best validation Loss std: 
+tensor(0.9585, device='cuda:0')
+Best Step: 94000 
+Best validation Loss: 
+tensor(7.2037, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8541, device='cuda:0')
+Best Step: 100000 
+Best validation Loss: 
+tensor(6.8346, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8888, device='cuda:0')
+Best Step: 106000 
+Best validation Loss: 
+tensor(6.5426, device='cuda:0')
+Best validation Loss std: 
+tensor(0.9556, device='cuda:0')
+Best Step: 112000 
+Best validation Loss: 
+tensor(6.4683, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8307, device='cuda:0')
+Best Step: 113000 
+Best validation Loss: 
+tensor(6.2013, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7191, device='cuda:0')
+Best Step: 118000 
+Best validation Loss: 
+tensor(6.0699, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7942, device='cuda:0')
+Best Step: 119000 
+Best validation Loss: 
+tensor(5.9250, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7325, device='cuda:0')
+Best Step: 122000 
+Best validation Loss: 
+tensor(5.6339, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7884, device='cuda:0')
+Best Step: 127000 
+Best validation Loss: 
+tensor(5.5776, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6867, device='cuda:0')
+Best Step: 128000 
+Best validation Loss: 
+tensor(5.4955, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5613, device='cuda:0')
+Best Step: 130000 
+Best validation Loss: 
+tensor(5.3924, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8012, device='cuda:0')
+Best Step: 131000 
+Best validation Loss: 
+tensor(5.3422, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6981, device='cuda:0')
+Best Step: 133000 
+Best validation Loss: 
+tensor(5.2416, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7299, device='cuda:0')
+Best Step: 134000 
+Best validation Loss: 
+tensor(5.1103, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7000, device='cuda:0')
+Best Step: 135000 
+Best validation Loss: 
+tensor(5.0893, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8187, device='cuda:0')
+Best Step: 142000 
+Best validation Loss: 
+tensor(4.9478, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6660, device='cuda:0')
+Best Step: 146000 
+Best validation Loss: 
+tensor(4.9093, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5970, device='cuda:0')
+Best Step: 148000 
+Best validation Loss: 
+tensor(4.8245, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7287, device='cuda:0')
+Best Step: 150000 
+Best validation Loss: 
+tensor(4.8032, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6331, device='cuda:0')
+Best Step: 152000 
+Best validation Loss: 
+tensor(4.8023, device='cuda:0')
+Best validation Loss std: 
+tensor(0.8749, device='cuda:0')
+Best Step: 153000 
+Best validation Loss: 
+tensor(4.6941, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6458, device='cuda:0')
+Best Step: 158000 
+Best validation Loss: 
+tensor(4.5518, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6722, device='cuda:0')
+Best Step: 160000 
+Best validation Loss: 
+tensor(4.4967, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5850, device='cuda:0')
+Best Step: 161000 
+Best validation Loss: 
+tensor(4.3488, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5939, device='cuda:0')
+Best Step: 171000 
+Best validation Loss: 
+tensor(4.3203, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5840, device='cuda:0')
+Best Step: 172000 
+Best validation Loss: 
+tensor(4.3185, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5857, device='cuda:0')
+Best Step: 177000 
+Best validation Loss: 
+tensor(4.2117, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6802, device='cuda:0')
+Best Step: 183000 
+Best validation Loss: 
+tensor(4.1820, device='cuda:0')
+Best validation Loss std: 
+tensor(0.7403, device='cuda:0')
+Best Step: 186000 
+Best validation Loss: 
+tensor(4.1305, device='cuda:0')
+Best validation Loss std: 
+tensor(0.6125, device='cuda:0')
+Best Step: 199000 
+Best validation Loss: 
+tensor(4.0264, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5342, device='cuda:0')
+Best Step: 211000 
+Best validation Loss: 
+tensor(4.0054, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5163, device='cuda:0')
+Best Step: 213000 
+Best validation Loss: 
+tensor(3.9323, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5773, device='cuda:0')
+Best Step: 223000 
+Best validation Loss: 
+tensor(3.8169, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5885, device='cuda:0')
+Best Step: 233000 
+Best validation Loss: 
+tensor(3.6934, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5363, device='cuda:0')
+Best Step: 234000 
+Best validation Loss: 
+tensor(3.6529, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5517, device='cuda:0')
+Best Step: 248000 
+Best validation Loss: 
+tensor(3.6160, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4674, device='cuda:0')
+Best Step: 258000 
+Best validation Loss: 
+tensor(3.5593, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5212, device='cuda:0')
+Best Step: 271000 
+Best validation Loss: 
+tensor(3.4204, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5533, device='cuda:0')
+Best Step: 280000 
+Best validation Loss: 
+tensor(3.3195, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5366, device='cuda:0')
+Best Step: 283000 
+Best validation Loss: 
+tensor(3.3000, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5087, device='cuda:0')
+Best Step: 290000 
+Best validation Loss: 
+tensor(3.2805, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4394, device='cuda:0')
+Best Step: 309000 
+Best validation Loss: 
+tensor(3.2079, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4613, device='cuda:0')
+Best Step: 328000 
+Best validation Loss: 
+tensor(3.1949, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4734, device='cuda:0')
+Best Step: 331000 
+Best validation Loss: 
+tensor(3.1915, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5487, device='cuda:0')
+Best Step: 334000 
+Best validation Loss: 
+tensor(3.1832, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5155, device='cuda:0')
+Best Step: 340000 
+Best validation Loss: 
+tensor(3.0877, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4627, device='cuda:0')
+Best Step: 354000 
+Best validation Loss: 
+tensor(3.0223, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5222, device='cuda:0')
+Best Step: 369000 
+Best validation Loss: 
+tensor(2.9800, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4647, device='cuda:0')
+Best Step: 372000 
+Best validation Loss: 
+tensor(2.8408, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5019, device='cuda:0')
+Best Step: 376000 
+Best validation Loss: 
+tensor(2.8162, device='cuda:0')
+Best validation Loss std: 
+tensor(0.3706, device='cuda:0')
+Best Step: 394000 
+Best validation Loss: 
+tensor(2.7168, device='cuda:0')
+Best validation Loss std: 
+tensor(0.5377, device='cuda:0')
+Best Step: 408000 
+Best validation Loss: 
+tensor(2.6236, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4325, device='cuda:0')
+Best Step: 435000 
+Best validation Loss: 
+tensor(2.6174, device='cuda:0')
+Best validation Loss std: 
+tensor(0.3683, device='cuda:0')
+Best Step: 455000 
+Best validation Loss: 
+tensor(2.5709, device='cuda:0')
+Best validation Loss std: 
+tensor(0.3742, device='cuda:0')
+Best Step: 467000 
+Best validation Loss: 
+tensor(2.5067, device='cuda:0')
+Best validation Loss std: 
+tensor(0.3942, device='cuda:0')
+Best Step: 479000 
+Best validation Loss: 
+tensor(2.4493, device='cuda:0')
+Best validation Loss std: 
+tensor(0.4163, device='cuda:0')

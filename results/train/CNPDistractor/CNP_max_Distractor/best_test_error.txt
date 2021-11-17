@@ -1,0 +1,345 @@
+Best Step: 1000 
+Best test Loss: 
+tensor(33.1747, device='cuda:0')
+Best test Loss std: 
+tensor(1.6581, device='cuda:0')
+Best Step: 2000 
+Best test Loss: 
+tensor(33.0618, device='cuda:0')
+Best test Loss std: 
+tensor(1.4936, device='cuda:0')
+Best Step: 7000 
+Best test Loss: 
+tensor(18.4323, device='cuda:0')
+Best test Loss std: 
+tensor(1.0581, device='cuda:0')
+Best Step: 8000 
+Best test Loss: 
+tensor(15.2811, device='cuda:0')
+Best test Loss std: 
+tensor(1.1469, device='cuda:0')
+Best Step: 9000 
+Best test Loss: 
+tensor(14.5106, device='cuda:0')
+Best test Loss std: 
+tensor(1.0918, device='cuda:0')
+Best Step: 10000 
+Best test Loss: 
+tensor(13.0768, device='cuda:0')
+Best test Loss std: 
+tensor(1.0362, device='cuda:0')
+Best Step: 11000 
+Best test Loss: 
+tensor(12.2908, device='cuda:0')
+Best test Loss std: 
+tensor(0.9786, device='cuda:0')
+Best Step: 12000 
+Best test Loss: 
+tensor(11.9602, device='cuda:0')
+Best test Loss std: 
+tensor(1.0131, device='cuda:0')
+Best Step: 13000 
+Best test Loss: 
+tensor(11.9302, device='cuda:0')
+Best test Loss std: 
+tensor(0.9401, device='cuda:0')
+Best Step: 14000 
+Best test Loss: 
+tensor(11.4512, device='cuda:0')
+Best test Loss std: 
+tensor(1.1306, device='cuda:0')
+Best Step: 17000 
+Best test Loss: 
+tensor(10.8056, device='cuda:0')
+Best test Loss std: 
+tensor(1.0872, device='cuda:0')
+Best Step: 19000 
+Best test Loss: 
+tensor(10.7592, device='cuda:0')
+Best test Loss std: 
+tensor(1.0343, device='cuda:0')
+Best Step: 20000 
+Best test Loss: 
+tensor(10.7241, device='cuda:0')
+Best test Loss std: 
+tensor(0.9981, device='cuda:0')
+Best Step: 22000 
+Best test Loss: 
+tensor(10.5781, device='cuda:0')
+Best test Loss std: 
+tensor(0.9778, device='cuda:0')
+Best Step: 24000 
+Best test Loss: 
+tensor(10.1879, device='cuda:0')
+Best test Loss std: 
+tensor(1.0498, device='cuda:0')
+Best Step: 25000 
+Best test Loss: 
+tensor(10.1770, device='cuda:0')
+Best test Loss std: 
+tensor(0.9625, device='cuda:0')
+Best Step: 28000 
+Best test Loss: 
+tensor(10.1247, device='cuda:0')
+Best test Loss std: 
+tensor(1.1827, device='cuda:0')
+Best Step: 29000 
+Best test Loss: 
+tensor(9.7445, device='cuda:0')
+Best test Loss std: 
+tensor(1.0694, device='cuda:0')
+Best Step: 37000 
+Best test Loss: 
+tensor(9.5666, device='cuda:0')
+Best test Loss std: 
+tensor(1.1183, device='cuda:0')
+Best Step: 38000 
+Best test Loss: 
+tensor(9.1594, device='cuda:0')
+Best test Loss std: 
+tensor(0.9718, device='cuda:0')
+Best Step: 54000 
+Best test Loss: 
+tensor(8.9457, device='cuda:0')
+Best test Loss std: 
+tensor(1.1552, device='cuda:0')
+Best Step: 63000 
+Best test Loss: 
+tensor(8.7822, device='cuda:0')
+Best test Loss std: 
+tensor(1.0560, device='cuda:0')
+Best Step: 66000 
+Best test Loss: 
+tensor(8.7578, device='cuda:0')
+Best test Loss std: 
+tensor(1.2588, device='cuda:0')
+Best Step: 70000 
+Best test Loss: 
+tensor(8.6434, device='cuda:0')
+Best test Loss std: 
+tensor(1.0511, device='cuda:0')
+Best Step: 77000 
+Best test Loss: 
+tensor(8.5870, device='cuda:0')
+Best test Loss std: 
+tensor(1.2027, device='cuda:0')
+Best Step: 79000 
+Best test Loss: 
+tensor(8.4326, device='cuda:0')
+Best test Loss std: 
+tensor(0.9056, device='cuda:0')
+Best Step: 80000 
+Best test Loss: 
+tensor(8.2996, device='cuda:0')
+Best test Loss std: 
+tensor(0.9534, device='cuda:0')
+Best Step: 101000 
+Best test Loss: 
+tensor(8.2561, device='cuda:0')
+Best test Loss std: 
+tensor(0.8964, device='cuda:0')
+Best Step: 107000 
+Best test Loss: 
+tensor(8.2118, device='cuda:0')
+Best test Loss std: 
+tensor(1.0162, device='cuda:0')
+Best Step: 111000 
+Best test Loss: 
+tensor(7.8079, device='cuda:0')
+Best test Loss std: 
+tensor(0.7926, device='cuda:0')
+Best Step: 118000 
+Best test Loss: 
+tensor(7.3448, device='cuda:0')
+Best test Loss std: 
+tensor(0.9369, device='cuda:0')
+Best Step: 122000 
+Best test Loss: 
+tensor(7.0391, device='cuda:0')
+Best test Loss std: 
+tensor(0.7325, device='cuda:0')
+Best Step: 126000 
+Best test Loss: 
+tensor(7.0256, device='cuda:0')
+Best test Loss std: 
+tensor(0.6768, device='cuda:0')
+Best Step: 128000 
+Best test Loss: 
+tensor(6.7753, device='cuda:0')
+Best test Loss std: 
+tensor(0.7516, device='cuda:0')
+Best Step: 132000 
+Best test Loss: 
+tensor(6.7363, device='cuda:0')
+Best test Loss std: 
+tensor(0.7776, device='cuda:0')
+Best Step: 137000 
+Best test Loss: 
+tensor(6.4988, device='cuda:0')
+Best test Loss std: 
+tensor(0.7646, device='cuda:0')
+Best Step: 144000 
+Best test Loss: 
+tensor(6.4348, device='cuda:0')
+Best test Loss std: 
+tensor(0.7488, device='cuda:0')
+Best Step: 146000 
+Best test Loss: 
+tensor(6.2909, device='cuda:0')
+Best test Loss std: 
+tensor(0.8133, device='cuda:0')
+Best Step: 152000 
+Best test Loss: 
+tensor(6.2896, device='cuda:0')
+Best test Loss std: 
+tensor(0.6733, device='cuda:0')
+Best Step: 157000 
+Best test Loss: 
+tensor(5.9351, device='cuda:0')
+Best test Loss std: 
+tensor(0.7085, device='cuda:0')
+Best Step: 158000 
+Best test Loss: 
+tensor(5.8889, device='cuda:0')
+Best test Loss std: 
+tensor(0.6703, device='cuda:0')
+Best Step: 161000 
+Best test Loss: 
+tensor(5.6668, device='cuda:0')
+Best test Loss std: 
+tensor(0.7501, device='cuda:0')
+Best Step: 205000 
+Best test Loss: 
+tensor(5.6516, device='cuda:0')
+Best test Loss std: 
+tensor(0.7982, device='cuda:0')
+Best Step: 212000 
+Best test Loss: 
+tensor(5.5333, device='cuda:0')
+Best test Loss std: 
+tensor(0.7429, device='cuda:0')
+Best Step: 213000 
+Best test Loss: 
+tensor(5.4606, device='cuda:0')
+Best test Loss std: 
+tensor(0.8611, device='cuda:0')
+Best Step: 216000 
+Best test Loss: 
+tensor(5.3972, device='cuda:0')
+Best test Loss std: 
+tensor(0.7720, device='cuda:0')
+Best Step: 218000 
+Best test Loss: 
+tensor(5.3655, device='cuda:0')
+Best test Loss std: 
+tensor(0.8653, device='cuda:0')
+Best Step: 230000 
+Best test Loss: 
+tensor(5.3256, device='cuda:0')
+Best test Loss std: 
+tensor(0.6947, device='cuda:0')
+Best Step: 237000 
+Best test Loss: 
+tensor(5.3152, device='cuda:0')
+Best test Loss std: 
+tensor(0.7612, device='cuda:0')
+Best Step: 238000 
+Best test Loss: 
+tensor(5.2948, device='cuda:0')
+Best test Loss std: 
+tensor(0.7265, device='cuda:0')
+Best Step: 244000 
+Best test Loss: 
+tensor(5.1584, device='cuda:0')
+Best test Loss std: 
+tensor(0.7809, device='cuda:0')
+Best Step: 253000 
+Best test Loss: 
+tensor(4.8876, device='cuda:0')
+Best test Loss std: 
+tensor(0.7591, device='cuda:0')
+Best Step: 271000 
+Best test Loss: 
+tensor(4.8571, device='cuda:0')
+Best test Loss std: 
+tensor(0.7609, device='cuda:0')
+Best Step: 283000 
+Best test Loss: 
+tensor(4.8370, device='cuda:0')
+Best test Loss std: 
+tensor(0.6562, device='cuda:0')
+Best Step: 295000 
+Best test Loss: 
+tensor(4.8111, device='cuda:0')
+Best test Loss std: 
+tensor(0.7461, device='cuda:0')
+Best Step: 303000 
+Best test Loss: 
+tensor(4.7198, device='cuda:0')
+Best test Loss std: 
+tensor(0.7050, device='cuda:0')
+Best Step: 311000 
+Best test Loss: 
+tensor(4.6513, device='cuda:0')
+Best test Loss std: 
+tensor(0.7063, device='cuda:0')
+Best Step: 331000 
+Best test Loss: 
+tensor(4.5858, device='cuda:0')
+Best test Loss std: 
+tensor(0.7125, device='cuda:0')
+Best Step: 336000 
+Best test Loss: 
+tensor(4.5004, device='cuda:0')
+Best test Loss std: 
+tensor(0.6886, device='cuda:0')
+Best Step: 347000 
+Best test Loss: 
+tensor(4.3753, device='cuda:0')
+Best test Loss std: 
+tensor(0.6098, device='cuda:0')
+Best Step: 351000 
+Best test Loss: 
+tensor(4.3133, device='cuda:0')
+Best test Loss std: 
+tensor(0.6281, device='cuda:0')
+Best Step: 360000 
+Best test Loss: 
+tensor(4.2888, device='cuda:0')
+Best test Loss std: 
+tensor(0.5458, device='cuda:0')
+Best Step: 369000 
+Best test Loss: 
+tensor(4.0211, device='cuda:0')
+Best test Loss std: 
+tensor(0.5540, device='cuda:0')
+Best Step: 412000 
+Best test Loss: 
+tensor(4.0172, device='cuda:0')
+Best test Loss std: 
+tensor(0.7174, device='cuda:0')
+Best Step: 422000 
+Best test Loss: 
+tensor(3.9919, device='cuda:0')
+Best test Loss std: 
+tensor(0.5511, device='cuda:0')
+Best Step: 423000 
+Best test Loss: 
+tensor(3.9362, device='cuda:0')
+Best test Loss std: 
+tensor(0.4479, device='cuda:0')
+Best Step: 471000 
+Best test Loss: 
+tensor(3.9223, device='cuda:0')
+Best test Loss std: 
+tensor(0.5584, device='cuda:0')
+Best Step: 478000 
+Best test Loss: 
+tensor(3.8611, device='cuda:0')
+Best test Loss std: 
+tensor(0.5400, device='cuda:0')
+Best Step: 492000 
+Best test Loss: 
+tensor(3.7517, device='cuda:0')
+Best test Loss std: 
+tensor(0.5146, device='cuda:0')

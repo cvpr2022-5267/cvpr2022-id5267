@@ -1,0 +1,12 @@
+# from networks.NeuralProcess import NeuralProcess
+# from networks.ANP import ANP
+# from networks.TrivialCNN import TrivialCNN
+# from networks.CondNeuralProcess import CondNeuralProcess
+# from networks.BNP import BNP
+# from networks.LinearNeuralProcess import LinearNeuralProcess
+# from networks.LinearBNP import LinearBNP
+# from networks.SetEncoder import SetEncoder
+# from networks.CNAPs_shapenet import CNAPs_shapenet
+# from networks.Versa import Versa
+# from networks.SingleTask import SingleTask
+# from networks.SingleTaskResNet import SingleTaskResNet

@@ -1,0 +1,30 @@
+{
+    "method": "CNPDistractor",
+    "mode": "evaluate_plot_tsne",
+    "tsne": True,
+    "save_latent_z": True,
+#    "checkpoint": "results/train/CNPDistractor/Distractor_contrastive_CNP_max/models/best_test_model.pt",
+    "checkpoint": "results/train/CNPDistractor/2021-09-26_13-32-36_distractor_datasize_None_max_maxmse_['data_aug']_seed_2578/models/best_test_model.pt",
+    "task": "distractor",  # ["shapenet_3d", "bars" ,"distractor", "pascal_1d"]
+    "aug_list": [],  # choose from ["MR", "data_aug", "task_aug", "azimuth_only"]
+    "agg_mode": "max",  # aggregation for latent representation, ['attention', 'mean', 'max', 'baco']
+    "img_agg": "max",  # aggregation over CNN feature maps ['mean', 'max', 'baco', 'reshape']
+    "loss_type": "mse",
+    "dim_w": 16,  # dim used to transform label in distractor
+    "tasks_per_batch": 1,  # number of minibatch
+    "max_ctx_num": 15,  # Number of context points
+#    "num_samples": 1,
+#    "test_num_samples": 1,
+    "noise_scale": 0.00,
+#    "img_config": img_kwargs, # coder hyper-parameters
+    "weight_decay": False,
+    "lr": 0.0001,
+    "optimizer": "",
+    "bg_gen_freq": 1000,
+    "val_freq": 1000,
+    "val_iters": 20,
+    "iterations": 30,
+#    "root_dir": str(root_path) + "/data",
+    "device": "cuda:0",
+    "seed": 2578,
+}

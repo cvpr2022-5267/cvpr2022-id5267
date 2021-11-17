@@ -1,0 +1,14 @@
+torch==1.7.0
+torchvision=0.8.1
+numpy
+imgaug
+matplotlib
+sklearn
+PyYAML
+einops
+local-attention
+axial-positional-embedding
+torchmeta
+transforms3d
+tensorboard
+

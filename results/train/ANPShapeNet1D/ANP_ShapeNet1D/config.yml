@@ -1,0 +1,46 @@
+agg_mode: attention
+aug_list:
+- task_aug
+- data_aug
+beta: 0
+bg_gen_freq: 1000
+checkpoint: ''
+data_size: large
+device: !!python/object/apply:torch.device
+- cuda
+- 0
+dim_hidden: null
+dim_r: 64
+dim_w: 64
+dim_z: 64
+first_order: null
+img_agg: ''
+img_size:
+- 128
+- 128
+- 1
+input_dim: 3
+iterations: 500000
+loss_type: mse
+lr: 0.0001
+max_ctx_num: 15
+method: ANPShapeNet1D
+n_hidden_units_r:
+- 100
+- 100
+noise_scale: 0.0
+num_steps: null
+optimizer: Adam
+output_dim: 2
+save_latent_z: false
+save_path: results/train/ANPShapeNet1D/2021-09-10_13-58-15_shapenet_1d_datasize_large_attention_mse_['task_aug',
+  'data_aug']_seed_2578
+seed: 2578
+task: shapenet_1d
+tasks_per_batch: 10
+test_num_steps: null
+timestamp: 2021-09-10_13-58-15
+update_lr: null
+val_freq: 50
+val_iters: 10
+weight_decay: false
