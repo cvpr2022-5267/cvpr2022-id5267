@@ -20,7 +20,7 @@
     "optimizer": "Adam",
     "bg_gen_freq": 1000,
     "val_freq": 50,
-    "val_iters": 10,
+    "val_iters": 30,
     "iterations": 500000,
     "device": "cuda:0",
     "seed": 2578,

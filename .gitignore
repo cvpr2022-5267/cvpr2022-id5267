@@ -1,0 +1,6 @@
+data/distractor/
+data/ShapeNet1D/
+data/ShapeNet3D_azi180ele30/
+*/__pycache__/
+*/*/__pycache__/
+.idea/

@@ -1,5 +1,4 @@
 import os.path
-
 import numpy as np
 import random
 import torch
@@ -8,7 +7,7 @@ import argparse
 
 from evaluator.model_evaluator import ModelEvaluator
 from trainer.losses import LossFunc
-from dataset import ShapeNet3DData, Bars, ShapeNetDistractor, Pascal1D, ShapeNet1D
+from dataset import ShapeNet3DData, ShapeNetDistractor, Pascal1D, ShapeNet1D
 from configs.config import Config
 
 
@@ -62,6 +61,7 @@ def evaluate(config):
                                   seed=42,
                                   load_test_categ_only=True,
                                   aug=config.aug_list,
+                                  test_categ=['04256520', '04530566'],  # test single category if exceeds cpu memory
                                   mode='eval')
     else:
         raise NameError("dataset doesn't exist, check dataset name!")

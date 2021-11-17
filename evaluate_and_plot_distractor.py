@@ -12,7 +12,7 @@ import argparse
 import random
 import imgaug
 from trainer.losses import LossFunc
-from dataset import ShapeNet3DData, Bars, ShapeNetDistractor, Pascal1D, ShapeNet1D
+from dataset import ShapeNet3DData, ShapeNetDistractor, Pascal1D, ShapeNet1D
 from configs.config import Config
 
 """

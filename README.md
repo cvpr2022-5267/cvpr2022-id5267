@@ -34,7 +34,7 @@ python evaluate_and_plot_shapenet3d.py --config cfg/evaluation/eval_and_plot/ANP
 ```
 Prediction vs context set size on novel tasks:
 ```shell
-python evaluation.py --config --config cfg/evaluation/CNP_max_Distractor.yaml
+python evaluation.py --config cfg/evaluation/CNP_max_Distractor.yaml
 python evaluation.py --config cfg/evaluation/ANP_ShapeNet1D.yaml
 python evaluation.py --config cfg/evaluation/ANP_ShapeNet3D.yaml
 ```
